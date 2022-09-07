@@ -1,0 +1,42 @@
+*
+{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav
+{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+   background-color: indigo;
+   width: 98%;
+  border-radius: 4px;
+}
+
+.menu
+{
+    display: flex;
+    gap: 15px;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-style: normal;
+    color: white;
+}
+
+.logo 
+{
+    color: white;
+}
